@@ -2,6 +2,14 @@
 
 A Godot Engine plugin to automatically generate `SpriteFrames` resources from sprite sheets.
 
+Demo 1
+
+https://github.com/user-attachments/assets/ba6f2f28-9b90-4133-9bfb-5199ec41837e
+
+Demo 2
+
+https://github.com/user-attachments/assets/42df9682-eb90-404a-8543-4e7700db94d1
+
 ## Features
 - Import sprite sheets and automatically slice them into frames
 - Generate `SpriteFrames` resources for use in animations
