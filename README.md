@@ -21,9 +21,11 @@ https://github.com/user-attachments/assets/42df9682-eb90-404a-8543-4e7700db94d1
 2. Enable the plugin in your project settings under `Project > Project Settings > Plugins`.
 
 ## Usage
-1. Open the Inspector UI from the Godot editor.
-2. Add your sprite sheets and configure slicing options.
-3. Generate `SpriteFrames` resources for use in your project.
+1. Open the SpriteFrames Generator UI from the Godot editor.
+2. Set the base sprite frame that you will generate the `SpriteFrames` from.
+3. Select the sprite sheets you want to process.
+4. Select the animation names you want to generate the `SpriteFrames` for.
+5. Generate `SpriteFrames` resources for use in your project.
 
 ## Folder Structure
 ```
